@@ -1,6 +1,21 @@
 # Cake-Blog-Project-In-Django
 Cake Blog Project In Django
+## Key Features:
+User Authentication:
 
+Secure user authentication and authorization to manage access to blog creation, editing, and commenting features.
+Blog Post Management:
+
+Intuitive interfaces for creating, editing, and deleting blog posts. A rich text editor can be incorporated for easy content formatting.
+Categories and Tags:
+
+Categorize blog posts and apply tags for efficient organization and navigation. This enhances content discoverability and user experience.
+Comments Section:
+
+Enable interactive discussions by incorporating a comments section. Users can engage with blog posts through comments, fostering a sense of community.
+Search Functionality:
+
+Implement a robust search functionality to allow users to quickly find relevant content based on keywords, categories, or tags.
 # Features of The Cake Blog:
 Scrumptious Recipes:
 

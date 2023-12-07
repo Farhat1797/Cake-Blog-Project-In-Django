@@ -1,7 +1,7 @@
 # Cake-Blog-Project-In-Django
 Cake Blog Project In Django
 
-#Features of The Cake Blog:
+# Features of The Cake Blog:
 Scrumptious Recipes:
 
 Discover an extensive collection of mouthwatering cake recipes ranging from classic favorites to trendy and creative concoctions. Each recipe is meticulously crafted, providing detailed instructions and ingredient lists to ensure success in every kitchen.
@@ -12,18 +12,18 @@ Inspiring Cake Designs:
 
 Immerse yourself in a world of cake artistry with captivating and visually stunning cake designs. Explore the latest trends in cake decorating, fondant sculpting, and innovative presentation ideas that turn every cake into a masterpiece.
 
-#Register page 
+# Register page 
 ![Django blog project](/public/11.PNG)
-#Login page
+# Login page
 ![Django blog project](/public/22.PNG)
-#Category Search  
+# Category Search  
 ![Django blog project](/public/cat.PNG)
-#Description page 
+# Description page 
 ![Django blog project](/public/descrp1.PNG)
 ![Django blog project](/public/descrp2.PNG)
 ![Django blog project](/public/descrp3.PNG)
-#Search
+# Search
 ![Django blog project](/public/search.PNG)
 
-#Dashboard
+# Dashboard
 ![Django blog project](/public/dashboard.PNG)
